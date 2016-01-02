@@ -1,0 +1,8 @@
+react:
+  build: .
+  env_file: .env
+  ports:
+    - "5000:5000"
+  volumes:
+    - ".:/myapp"
+  command: "sh -c 'npm install --no-bin-links && npm start'"

@@ -1,0 +1,12 @@
+{
+  "name": "react-redux",
+  "version": "0.0.1",
+  "description": "a todo app",
+  "main": "index.js",
+  "author": "Arvind",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.14.5",
+    "redux": "^3.0.5"
+  }
+}
